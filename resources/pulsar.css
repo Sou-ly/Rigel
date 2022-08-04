@@ -1,0 +1,31 @@
+#controlBar {
+    -fx-spacing: 4;
+    -fx-padding: 4;
+    -fx-background-color: #3c0b4f;
+}
+
+.label {
+    -fx-alignment: baseline-right;
+    -fx-padding: 5px;
+}
+
+.button {
+    -fx-spacing: inherit;
+    -fx-background-color:#3c0b4f;
+    -fx-background-radius: 5em;
+    -fx-min-width: 27px;
+    -fx-min-height: 27px;
+    -fx-max-width: 27px;
+    -fx-max-height: 27px;
+    -fx-text-fill: white;
+ }
+
+ .button:hover{
+    -fx-cursor: hand;
+    -fx-background-color: #3f0a6e;
+ }
+
+#info {
+    -fx-padding: 4;
+    -fx-background-color: #3c0b4f;
+}

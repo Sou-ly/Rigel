@@ -1,0 +1,22 @@
+#info {
+    -fx-background-image: url("/infbg.png");
+    -fx-background-repeat: stretch;
+    -fx-background-size: 800 500;
+    -fx-background-position: center center;
+}
+
+.button {
+    -fx-spacing: inherit;
+    -fx-background-color: #222;
+    -fx-background-radius: 5em;
+    -fx-min-width: 27px;
+    -fx-min-height: 27px;
+    -fx-max-width: 27px;
+    -fx-max-height: 27px;
+    -fx-text-fill: white;
+}
+
+.button:hover{
+    -fx-cursor: hand;
+    -fx-background-color: #3f454a;
+}

@@ -1,0 +1,28 @@
+.button{
+    -fx-background-color: transparent;
+    -fx-font: bold 17px "Font Awesome 5 Brands";
+    -fx-text-fill: white;
+    -fx-background-radius: 12;
+    -fx-min-width: 230px;
+    -fx-min-height: 40px;
+    -fx-max-width: 230px;
+    -fx-max-height: 40px;
+}
+
+
+.button:hover{
+    -fx-cursor: hand;
+    -fx-font-size: 19px;
+    -fx-effect : dropshadow(three-pass-box, rgba(255, 255, 255, 0.7), 4, 0, 0, 0);
+}
+
+#title {
+    -fx-font: bold 60px "Trebuchet Ms";
+}
+
+#menu {
+    -fx-background-image: url("/mainbg.jpg");
+    -fx-background-repeat: stretch;
+    -fx-background-size: 800 500;
+    -fx-background-position: center center;
+}

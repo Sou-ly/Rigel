@@ -1,0 +1,35 @@
+.hbox {
+   -fx-spacing: inherit;
+   -fx-alignment: baseline-left;
+}
+
+.label {
+    -fx-alignment: baseline-right;
+    -fx-padding: 5px;
+}
+
+.text-field {
+    -fx-pref-width: 60;
+    -fx-alignment: baseline-right;
+    -fx-background-color: #fff;
+    -fx-background-color: none;
+    -fx-text-fill: white;
+}
+
+.text-field:focused{
+    -fx-background-color:
+        #0093EF,
+        #121212;
+}
+
+.text-field:hover {
+    -fx-background-color:
+        #0093EF,
+        #121212;
+}
+
+.text-field:focused:hover {
+    -fx-background-color:
+        #0093EF,
+        #121212;
+}
