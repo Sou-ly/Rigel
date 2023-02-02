@@ -4,4 +4,4 @@ Ceci est le projet du cours CS-108 : Pratique de la programmation orientée-obje
 
 L'intégralité des consignes et des explications théoriques du projet se trouve sur le [site du cours](https://cs108.epfl.ch/archive/20/p/00_introduction.html).
 
-**Note finale** : 300 / 350 $\to$ 5.25 / 6
+
